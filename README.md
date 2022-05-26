@@ -22,3 +22,10 @@
             move - torch.argmax(prediction).item()
             final_move[move] = 1
 ````
+
+## DONE ✅
+
+### Futur improvements
+
+- Host on a flask App
+- Add a GUI
